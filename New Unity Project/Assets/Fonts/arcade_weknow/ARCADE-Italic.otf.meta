@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b28918aba2e27432aaf7ff2bd7e20d6d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ARCADE
+  fontNames:
+  - ARCADE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1ef53bbe5193442bdbb7e499b91e5a8f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
